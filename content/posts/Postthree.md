@@ -1,11 +1,11 @@
 +++
 title = "When the Rack Gets More Expensive Than the Plan"
-date = "2026-02-19T21:13:23-05:00"
+date = "2026-02-18T21:13:23-05:00"
 #dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
 author = ""
 authorTwitter = "" #do not include @
 cover = ""
-tags = ["MSP", "Server"]
+tags = ["MSP", "WindowsServer"]
 keywords = ["", ""]
 description = ""
 showFullContent = false
@@ -34,6 +34,3 @@ And when you’re trying to put together a clean, predictable scope for a client
 The takeaway: hardware planning now requires more flexibility than it used to. Quotes may need shorter approval windows, projects may need earlier purchasing, and clients may need to expect that infrastructure costs can shift faster than they did a few years ago.
 
 IT hasn’t just gotten more complex because of software and security. Sometimes, it’s the simple stuff—like RAM and hard drives—that ends up changing the whole game.
-
-
-
