@@ -2,8 +2,10 @@ baseURL = "https://blog.anthonyda.com/"
 languageCode = "en-us"
 title = "Diary of a SysAdmin"
 theme = "terminal"
-paginate = 10
 enableRobotsTXT = true
+
+[pagination]
+  pagerSize = 10
 
 [params]
   contentTypeName = "posts"
