@@ -1,0 +1,55 @@
+baseURL = "https://blog.anthonyda.com/"
+languageCode = "en-us"
+title = "Diary of a SysAdmin"
+theme = "terminal"
+paginate = 10
+enableRobotsTXT = true
+
+[params]
+  contentTypeName = "posts"
+  themeColor = "green"
+  showMenuItems = 4
+  showLanguageSelector = false
+  fullWidthTheme = false
+  centerTheme = true
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
+
+    [languages.en.params]
+      subtitle = "Notes from the trenches: tickets, migrations, outages, and wins."
+      owner = "Anthony"
+      keywords = "MSP, sysadmin, Microsoft 365, Intune, Entra, Exchange, Hyper-V"
+
+      menuMore = "Show more"
+      readMore = "Read more"
+      readOtherPosts = "Read other posts"
+      newerPosts = "Newer posts"
+      olderPosts = "Older posts"
+      missingContentMessage = "Page not found..."
+      missingBackButtonLabel = "Back to home page"
+
+      [languages.en.params.logo]
+        logoText = "Diary of a SysAdmin"
+        logoHomeLink = "/"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "posts"
+        name = "Posts"
+        url = "/posts/"
+        weight = 1
+
+      [[languages.en.menu.main]]
+        identifier = "tags"
+        name = "Tags"
+        url = "/tags/"
+        weight = 2
+
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about/"
+        weight = 3
