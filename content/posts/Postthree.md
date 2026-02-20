@@ -1,6 +1,7 @@
 +++
 title = "When the Rack Gets More Expensive Than the Plan"
-date = "2026-02-18T21:13:23-05:00"
+date = "2026-02-19T14:13:23-05:00"
+type = "posts"
 #dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
 author = ""
 authorTwitter = "" #do not include @

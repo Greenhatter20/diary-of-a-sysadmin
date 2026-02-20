@@ -2,6 +2,7 @@ baseURL = "https://blog.anthonyda.com/"
 languageCode = "en-us"
 title = "Diary of a SysAdmin"
 theme = "terminal"
+timeZone = "America/New_York"
 enableRobotsTXT = true
 
 [pagination]
